@@ -52,7 +52,7 @@ dependencies {
 
 ### Latest Changes
 - [NEWS.md](NEWS.md)
-
+# [simontok](https://android-apk.org/com.ipankstudio.lk21/40802355-simontok/)
 ### Features
 - Common
  - remove rarely used ffmpeg components to reduce binary size [config/module-lite.sh](config/module-lite.sh)
